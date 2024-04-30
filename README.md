@@ -13,9 +13,9 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 
 + [About](https://github.com/madeleinezo/madeleinezo.github.io/blob/main/README.md#about)
-+ [Portfolio Projects](https://github.com/madeleinezo/madeleinezo.github.io/edit/main/README.md#portfolio-projects)
-+ [Education](https://github.com/madeleinezo/madeleinezo.github.io/edit/main/README.md#education)
-+ [Contacts](https://github.com/madeleinezo/madeleinezo.github.io/edit/main/README.md#contacts)
++ [Portfolio Projects](https://github.com/madeleinezo/madeleinezo.github.io/blob/main/README.md#portfolio-projects)
++ [Education](https://github.com/madeleinezo/madeleinezo.github.io/blob/main/README.md#education)
++ [Contacts](https://github.com/madeleinezo/madeleinezo.github.io/blob/main/README.md#contacts)
 
 ## Portfolio Projects 
 
