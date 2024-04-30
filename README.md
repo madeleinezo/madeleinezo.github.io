@@ -8,3 +8,8 @@ In my free time, I immerse myself in the world of cinema, captivated by its stor
 
 My CV in [Pdf](https://github.com/madeleinezo/madeleinezo.github.io/blob/main/resume_Celia_Rohart.pdf/) 
 
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
+## Table of Contents
+
++ [About](
