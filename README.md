@@ -12,4 +12,4 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 
-+ [About](
++ [About](https://github.com/madeleinezo/madeleinezo.github.io/blob/main/README.md#about)
