@@ -13,3 +13,23 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 
 + [About](https://github.com/madeleinezo/madeleinezo.github.io/blob/main/README.md#about)
++ [Portfolio Projects](https://github.com/madeleinezo/madeleinezo.github.io/edit/main/README.md#portfolio-projects)
++ [Education](https://github.com/madeleinezo/madeleinezo.github.io/edit/main/README.md#education)
++ [Contacts](https://github.com/madeleinezo/madeleinezo.github.io/edit/main/README.md#contacts)
+
+## Portfolio Projects 
+
+
+
+## Education
+
+Le Wagon School, Specialization, Data Analysis, Apr 2024
+
+CELSA School, Master's degree, Marketing (with high honors), 2018-2019
+
+University Paris 1 Panthéon-Sorbonne, Master’s degree, Digital Law (with high honors), 2017-2018
+
+## Contacts 
+
++ Linkedin : [Célia Rohart](www.linkedin.com/in/célia-rohart)
++ Email : celia.rohart@gmail.com
