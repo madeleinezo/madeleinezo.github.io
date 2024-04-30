@@ -6,5 +6,5 @@ My professional background encompasses diverse industries, including audiovisual
 
 In my free time, I immerse myself in the world of cinema, captivated by its storytelling magic. But I'm not just a homebody—I love to travel too. Exploring new places and immersing myself in different cultures is a big passion of mine. And even when I'm not on the go, I'm always eager to learn. I'm constantly seeking out new data analysis tools and techniques to sharpen my skills. It's fascinating to see how data can be used to understand the world around us better. Whether I'm collaborating with others or working independently, I get a real thrill from digging into data and uncovering fresh insights. There's something incredibly satisfying about using data to crack tough problems and make a real impact.
 
-My CV in pdf
+My CV in [Pdf](https://github.com/madeleinezo/madeleinezo.github.io/blob/main/resume_Celia_Rohart.pdf/) 
 
